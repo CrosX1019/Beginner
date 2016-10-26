@@ -1,2 +1,2 @@
 # Beginner
-My first repository.
+It's a seed.
